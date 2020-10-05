@@ -1,0 +1,32 @@
+section {background-color: red; width: 720px; height: 720px; position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-left: -360px;
+  margin-top: -360px;}
+
+  #dikey { width: 100px;
+  height: 450px;
+  background-color: white;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left: -50px;
+    margin-top: -225px;
+  
+   
+  
+  }
+ 
+  #yatay { width: 450px;
+    height: 100px;
+    background-color: white; 
+    position: absolute;
+
+    left: 50%;
+    top: 50%;
+    margin-left: -225px;
+    margin-top: -50px;
+   
+    
+  
+  }
